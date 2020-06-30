@@ -9,7 +9,7 @@
   "description": "A template alternative for CRA featuring styled-components",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dvlprdave/cra-template-styledcomponents.git",
+    "url": "https://github.com/dvlprdave/cra-template-styled-components-starter.git",
     "directory": "packages/cra-template"
   },
   "license": "MIT",

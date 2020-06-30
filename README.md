@@ -5,7 +5,7 @@ My personal Create React App template based on using Styled-Components
 ## Usage
 
 `
- npx create-react-app my-app --template styledcomponents
+ npx create-react-app my-app --template styled-components-starter
 `
 
 ## Includes 
