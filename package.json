@@ -6,8 +6,10 @@
     "create-react-app",
     "template"
   ],
+  "main": "template.json",
   "description": "A template alternative for CRA featuring styled-components",
   "repository": {
+    "author": "David Quick",
     "type": "git",
     "url": "https://github.com/dvlprdave/cra-template-styled-components-starter.git",
     "directory": "packages/cra-template"
