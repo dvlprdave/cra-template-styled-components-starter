@@ -1,4 +1,20 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# cra-template-styledcomponents
+
+My personal Create React App template based on using Styled-Components
+
+## Usage
+
+`
+ npx create-react-app my-app --template styledcomponents
+`
+
+## Includes 
+- [Styled Components](https://styled-components.com/).
+
+## Features
+- Babel Plugin for style minification and better debugging
+- Theming via ThemeProvider 
+- Optional CSS reset
 
 ## Available Scripts
 
@@ -50,10 +66,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/co
 ### Analyzing the Bundle Size
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 

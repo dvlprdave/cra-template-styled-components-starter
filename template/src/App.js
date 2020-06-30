@@ -1,10 +1,3 @@
-/* 
-Imports: 
-1st section - Mandatory imports such as 'React'
-2nd section - 3rd-party code, such as npm packages 
-2nd section - Local imports and components
-*/
-
 import React from 'react'
 
 import styled from 'styled-components'
