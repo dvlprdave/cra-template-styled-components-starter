@@ -1,4 +1,4 @@
-# cra-template-styledcomponents
+# cra-template-styled-components-starter
 
 My personal Create React App template based on using Styled-Components
 
