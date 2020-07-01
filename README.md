@@ -10,10 +10,14 @@ My personal Create React App template based on using Styled-Components
 
 ## Includes 
 - [Styled Components](https://styled-components.com/).
+- [Styled Media Query](https://github.com/morajabi/styled-media-query).
+- [Babel Plugin Styled Components](https://styled-components.com/docs/tooling).
 
 ## Features
 - Babel Plugin for style minification and better debugging
 - Theming via ThemeProvider 
+- Pre-defined & optional custom media query breakpoints
+- Pre-defined components folder with a starter Header component
 - Optional CSS reset
 
 ## Available Scripts

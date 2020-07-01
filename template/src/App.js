@@ -18,7 +18,7 @@ function App() {
 
 export default App
 
-// AppContainer styles & centers Header component
+// AppContainer styles. Centers <Header /> component
 const AppContainer = styled.div`
   display: flex;
   justify-content: center;
